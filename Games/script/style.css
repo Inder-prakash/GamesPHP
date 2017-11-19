@@ -1,0 +1,174 @@
+body
+{
+	background-image:url(../Img/background.jpg);
+	margin:0px;
+	background-attachment:fixed;
+}
+.main
+{
+	width:1300px;
+	
+}
+.container
+{
+	width:1300px;
+	height:1000px;
+}
+.page
+{
+	text-decoration:none;
+	color:#FF8600;
+	width:1300px;
+	background-color:#F4BFC0;
+}
+.page ul li {
+	width:185px;
+}
+.header
+{
+	width:1300px;
+	height:180px;
+
+}
+.margin
+{
+	margin:0px;
+	padding:0px;
+}
+.im
+{
+	width:200px;
+	height:180px;
+	float:left;
+}
+.search
+{
+	width:300px;
+	height:40px;
+	float:right;
+}
+.head
+{
+	width: 800px;
+	height: 40px;
+	float: left;
+	text-align: center;
+	font-size: 46px;
+	font-weight: bolder;
+}
+.button 
+{
+	background:url(../Img/search.png) transparent;
+	background-size:cover;
+    width:30px; 
+	height:30px;
+	border:none;
+	
+}
+h1
+{
+	font-weight:900;
+}
+ul
+{
+	padding:0px;
+	margin:0px;
+	list-style:none;
+}
+ul li
+{
+	float:left;
+	width:162px;
+	text-align:center;
+	line-height:8px;
+	font-size:20px;
+	font-weight:bolder;
+}
+ul li a
+{
+	display:block;
+	padding:15px 5px;
+	text-decoration:none;
+	margin-top:0px;
+	color:#000000;
+	background-color:#F4BFC0;
+	
+}
+ul li a:hover
+{
+	color:#FFFFFF;
+	background-color:#000000;
+	font-weight:bold;
+}
+.middle {
+	width:1300px;
+	margin:0px;
+	padding:0px;
+}
+.lc {
+	float:left;
+	width:200px;
+	padding-top:100px;
+	padding-left:20px;
+	padding-right:10px;	
+	margin:0px;
+}
+.lc a {
+	
+	text-decoration:none;
+	color:#000000;
+	font-size:18px;
+}
+.lc a:hover {
+	color:#000000;
+	font-weight:bolder;
+}
+.rc {
+	padding-top:100px;
+	float:right;
+	width:1055px;
+	margin:0px;
+}
+.rc a {
+	
+	text-decoration:none;
+	color:#000000;
+	font-size:24px;
+}
+.rc a:hover {
+	color:#000000;
+	font-weight:bolder;
+}
+.bu{
+	 padding-right:20px;
+	 padding-left:20px;
+	 padding-top:5px;
+	 padding-bottom:5px;
+	 float:right;
+	 font-weight:bold;
+	 background-color:#008CFF;
+	 color:white;
+}
+.bu:hover{
+	 background-color:#FF1317;
+	 color:white;
+}
+.reason {
+	padding-left:240px;
+}
+
+.rcc {
+	padding-top:60px;
+	float:right;
+	width:1055px;
+	margin:0px;
+	font-size:20px;
+	padding-bottom:100px;
+}
+.rcc a {
+	text-decoration:none;
+	font-size:20px;
+}
+.rcc a:hover {
+	text-decoration:underline;
+}
